@@ -23,3 +23,7 @@ vue-cli-plugin-axios非必要，以使用以下axios依赖为主
 ## 关闭eslint校验
 打开package.json，在rules下添加
 "no-unused-vars": "off"
+
+## 启动项目
+npm run serve
+注意，不是server!!
